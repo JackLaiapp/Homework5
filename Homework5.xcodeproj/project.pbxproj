@@ -22,7 +22,7 @@
 		1FF48DFD1E59FF4D002FCCEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FF48E001E59FF4D002FCCEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1FF48E021E59FF4D002FCCEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1FF48E081E59FF7C002FCCEE /* exercise1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = exercise1.playground; sourceTree = "<group>"; };
+		1FF48E091E5A00B5002FCCEE /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +39,7 @@
 		1FF48DEA1E59FF4D002FCCEE = {
 			isa = PBXGroup;
 			children = (
+				1FF48E091E5A00B5002FCCEE /* MyPlayground.playground */,
 				1FF48DF51E59FF4D002FCCEE /* Homework5 */,
 				1FF48DF41E59FF4D002FCCEE /* Products */,
 			);
@@ -61,7 +62,6 @@
 				1FF48DFD1E59FF4D002FCCEE /* Assets.xcassets */,
 				1FF48DFF1E59FF4D002FCCEE /* LaunchScreen.storyboard */,
 				1FF48E021E59FF4D002FCCEE /* Info.plist */,
-				1FF48E081E59FF7C002FCCEE /* exercise1.playground */,
 			);
 			path = Homework5;
 			sourceTree = "<group>";
