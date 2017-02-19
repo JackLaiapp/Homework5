@@ -27,6 +27,7 @@
 		1FF48E0B1E5A0638002FCCEE /* exercise3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = exercise3.playground; sourceTree = "<group>"; };
 		1FF48E0C1E5A0805002FCCEE /* exercise4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = exercise4.playground; sourceTree = "<group>"; };
 		1FF48E0D1E5A0BBA002FCCEE /* exercise5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = exercise5.playground; sourceTree = "<group>"; };
+		1FF48E0E1E5A0CF3002FCCEE /* exercise6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = exercise6.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		1FF48DEA1E59FF4D002FCCEE = {
 			isa = PBXGroup;
 			children = (
+				1FF48E0E1E5A0CF3002FCCEE /* exercise6.playground */,
 				1FF48E0D1E5A0BBA002FCCEE /* exercise5.playground */,
 				1FF48E0C1E5A0805002FCCEE /* exercise4.playground */,
 				1FF48E0B1E5A0638002FCCEE /* exercise3.playground */,
